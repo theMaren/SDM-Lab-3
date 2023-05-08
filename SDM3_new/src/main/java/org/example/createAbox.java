@@ -111,28 +111,11 @@ public class createAbox {
 
     public static void conferences_to_abox(List<String[]> rows,HashMap<String, String> classes,
                                            HashMap<String, String> properties, OntModel tbox,
-                                           String conference_type,String paper_type){
+                                           String conference_type){
 
         //check the paper type
-        String paper_uri = "";
         String conference_uri = "";
-        String p_property_name = "";
         String c_property_name = "";
-        // case to distinguish between the paper subclasses
-        switch (paper_type){
-            case "short":
-                paper_uri = classes.get("ShortPaper");
-                p_property_name = "ShortAbstract";
-                break;
-            case "full":
-                paper_uri = classes.get("FullPaper");
-                p_property_name = "NumOfChapters";
-                break;
-            case "demo":
-                paper_uri = classes.get("DemoPaper");
-                p_property_name = "LinkID";
-                break;
-        }
 
         // case to distinguish between the conference types
         switch (conference_type){
@@ -154,40 +137,76 @@ public class createAbox {
                 break;
         }
 
-
         // check the conference part
         for (String[] row : rows) {
 
             // create instances
-            Individual paper = abox.createIndividual(paper_uri + "/" + row[1], tbox.getOntClass(paper_uri));
-            Individual author = abox.createIndividual(classes.get("Author") + "/" + row[4], tbox.getOntClass(classes.get("Author")));
-            Individual conference = abox.createIndividual(conference_uri + "/" + row[7], tbox.getOntClass(conference_uri));
-            Individual handler = abox.createIndividual(classes.get("Handler") + "/" + row[12], tbox.getOntClass(classes.get("Handler")));
+            Individual conference = abox.createIndividual(conference_uri + "/" + row[13], tbox.getOntClass(conference_uri));
+            Individual author = abox.createIndividual(classes.get("Author") + "/" + row[10], tbox.getOntClass(classes.get("Author")));
+            Individual handler = abox.createIndividual(classes.get("Handler") + "/" + row[18], tbox.getOntClass(classes.get("Handler")));
 
             //add properties
-            paper.addProperty(abox.createProperty(properties.get("Title")), row[3]);
-            paper.addProperty(abox.createProperty(properties.get(p_property_name)), row[3]);
-            author.addProperty(abox.createProperty(properties.get("Name")), row[5]);
-            conference.addProperty(abox.createProperty(properties.get(c_property_name)), row[6]);
-            conference.addProperty(abox.createProperty(properties.get("VenueName")), row[9]);
-            conference.addProperty(abox.createProperty(properties.get("Proceedings")), row[11]);
-            handler.addProperty(abox.createProperty(properties.get("StartDate")), row[13]);
+            author.addProperty(abox.createProperty(properties.get("Name")), row[11]);
+            handler.addProperty(abox.createProperty(properties.get("StartDate")), row[19]);
+            conference.addProperty(abox.createProperty(properties.get(c_property_name)), row[12]);
+            conference.addProperty(abox.createProperty(properties.get("VenueName")), row[15]);
+            conference.addProperty(abox.createProperty(properties.get("Proceedings")), row[17]);
+
+            //check for paper type
+            Individual paper = null;
+            if(!row[3].isEmpty()){
+                //demo
+                paper = abox.createIndividual(classes.get("DemoPaper") + "/" + row[3], tbox.getOntClass(classes.get("DemoPaper")));
+                paper.addProperty(abox.createProperty(properties.get("LinkID")), row[2]);
+            }else if(!row[5].isEmpty()){
+                //full
+                paper = abox.createIndividual(classes.get("FullPaper") + "/" + row[5], tbox.getOntClass(classes.get("FullPaper")));
+                paper.addProperty(abox.createProperty(properties.get("NumOfChapters")), row[4]);
+            }else if(!row[7].isEmpty()) {
+                //short
+                paper = abox.createIndividual(classes.get("ShortPaper") + "/" + row[7], tbox.getOntClass(classes.get("ShortPaper")));
+                paper.addProperty(abox.createProperty(properties.get("ShortAbstract")), row[6]);
+            } else {
+                paper = abox.createIndividual(classes.get("Article") + "/" + row[8], tbox.getOntClass(classes.get("Article")));
+            }
+
+            paper.addProperty(abox.createProperty(properties.get("Title")), row[9]);
 
             //add relations
             paper.addProperty(abox.createProperty(properties.get("appliesTo")), conference);
             conference.addProperty(abox.createProperty(properties.get("handledBy")), handler);
             paper.addProperty(abox.createProperty(properties.get("writtenBy")), author);
 
+            //check if poster
+            if(row[1] != ""){
+                Individual poster = abox.createIndividual(classes.get("Poster") + "/" + row[1], tbox.getOntClass(classes.get("Poster")));
+                poster.addProperty(abox.createProperty(properties.get("Size")), row[0]);
+                poster.addProperty(abox.createProperty(properties.get("madeFor")), conference);
+
+            }
 
         }
+    }
+
+    public static void areas_to_abox(List<String[]> rows,HashMap<String, String> classes,
+                                           HashMap<String, String> properties, OntModel tbox){
+
+        for (String[] row : rows) {
+            // create the classes
+            Individual area = abox.createIndividual(classes.get("Area") + "/" + row[1], tbox.getOntClass(classes.get("Area")));
+            Individual article = abox.createIndividual(classes.get("Article") + "/" + row[0], tbox.getOntClass(classes.get("Article")));
+
+            //properties
+            area.addProperty(abox.createProperty(properties.get("AreaName")), row[2]);
+            article.addProperty(abox.createProperty(properties.get("relatedTo")), area);
+        }
+
     }
 
     public static void main(String[] args) {
 
         HashMap<String, String> classes = new HashMap<String, String>();
         HashMap<String, String> properties = new HashMap<String, String>();
-        //HashMap<String, String> properties = new HashMap<String, String>();
-
         List<String[]> csv_rows = new ArrayList<String[]>();
 
         //file pathes
@@ -195,23 +214,11 @@ public class createAbox {
         String fullPaperPath = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\fullpapers_journals_Lab3.csv";
         String demoPaperPath = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\demopaper_journals_Lab3.csv";
         String reviewPath = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\reviews_journals_Lab3.csv";
-        String conferencePath1 = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\workshop_short.csv";
-        String conferencePath2 = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\symposium_short.csv";
-        String conferencePath3 = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\expertgroup_short.csv";
-        String conferencePath4 = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\regularconf_short.csv";
-        String conferencePath5 = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\expertgroup_fullpapers.csv";
-        String conferencePath6 = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\regularconf_full.csv";
-        String conferencePath7 = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\symposium_full.csv";
-        String conferencePath8 = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\workshop_full.csv";
-        String conferencePath9 = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\workshop_demo.csv";
-        String conferencePath10 = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\regularconf_demo.csv";
-        String conferencePath11 = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\symposium_demo.csv";
-        String conferencePath12 = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\expertgroup_demo.csv";
-        //String conferencePath13 = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\regularconf_posters.csv";
-        //String conferencePath14 = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\expergroup_posters.csv";
-        //String conferencePath15 = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\symposium_posters.csv";
-        //String conferencePath16 = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\workshop_posters.csv";
-
+        String workshopPath = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\workshops.csv";
+        String symposiumPath = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\symposiums.csv";
+        String regconfPath = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\regularconferences.csv";
+        String expergroupPath = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\expertsgroups.csv";
+        String areaPath = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\areas.csv";
 
         String tboxPath = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\TBOXv5.owl";
 
@@ -246,19 +253,23 @@ public class createAbox {
         //reviews
         csv_rows = read_csv(reviewPath,',');
         reviews_to_abox(csv_rows,classes,properties,tbox);
+        //area
+        csv_rows = read_csv(areaPath,',');
+        areas_to_abox(csv_rows,classes,properties,tbox);
 
         //conferences
-        csv_rows = read_csv(conferencePath1,',');
-        conferences_to_abox(csv_rows,classes,properties,tbox,"workshop","short");
-
-        csv_rows = read_csv(conferencePath2,',');
-        conferences_to_abox(csv_rows,classes,properties,tbox,"symposium","short");
-
-        csv_rows = read_csv(conferencePath3,',');
-        conferences_to_abox(csv_rows,classes,properties,tbox,"expert","short");
-
-        csv_rows = read_csv(conferencePath4,',');
-        conferences_to_abox(csv_rows,classes,properties,tbox,"regular","short");
+        //worskhop
+        csv_rows = read_csv(workshopPath,',');
+        conferences_to_abox(csv_rows,classes,properties,tbox,"workshop");
+        //symposium
+        csv_rows = read_csv(symposiumPath,',');
+        conferences_to_abox(csv_rows,classes,properties,tbox,"symposium");
+        //expert group
+        csv_rows = read_csv(expergroupPath,',');
+        conferences_to_abox(csv_rows,classes,properties,tbox,"expert");
+        //regular conference
+        csv_rows = read_csv(regconfPath,',');
+        conferences_to_abox(csv_rows,classes,properties,tbox,"regular");
 
         //save abox to file
         try{
