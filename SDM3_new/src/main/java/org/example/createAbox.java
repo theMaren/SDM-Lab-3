@@ -13,7 +13,6 @@ import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
 
-
 public class createAbox {
     public static OntModel abox = ModelFactory.createOntologyModel();
 
@@ -110,7 +109,10 @@ public class createAbox {
                 paper_uri = classes.get("DemoPaper");
             } else if (row[3].toLowerCase().contains("full")) {
                 paper_uri = classes.get("FullPaper");
-            } else {
+            } else if (row[3].toLowerCase().contains("poster")) {
+                paper_uri = classes.get("Poster");
+            }
+            else {
                 paper_uri = classes.get("Article");
             }
 
@@ -234,7 +236,10 @@ public class createAbox {
                 paper_uri = classes.get("DemoPaper");
             } else if (row[0].toLowerCase().contains("full")) {
                 paper_uri = classes.get("FullPaper");
-            } else{
+            } else if (row[0].toLowerCase().contains("poster")){
+                paper_uri = classes.get("Poster");
+            }
+            else{
                 paper_uri = classes.get("Article");
             }
 
