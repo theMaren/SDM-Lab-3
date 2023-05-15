@@ -34,7 +34,7 @@ public class createAbox {
             csvParser.close();
 
         } catch(Exception e){
-            System.out.println("I got an exception");
+            System.out.println("Exception occurred");
             System.out.println(e);
         }
 
@@ -117,7 +117,7 @@ public class createAbox {
             }
 
             // create instances
-            Individual paper = abox.createIndividual(paper_uri + "/" + row[0], tbox.getOntClass(paper_uri));
+            Individual paper = abox.createIndividual(paper_uri + "/" + row[3], tbox.getOntClass(paper_uri));
             Individual review = abox.createIndividual(classes.get("Review") + "/" + row[0], tbox.getOntClass(classes.get("Review")));
             Individual handler = abox.createIndividual(classes.get("Handler") + "/" + row[4], tbox.getOntClass(classes.get("Handler")));
             Individual reviewer = abox.createIndividual(classes.get("Reviewer") + "/" + row[5], tbox.getOntClass(classes.get("Reviewer")));
@@ -328,7 +328,7 @@ public class createAbox {
             out.close();
 
         }catch(Exception e){
-            System.out.println("I got an exception");
+            System.out.println("Exception occurred");
             System.out.println(e);
         }
     }
