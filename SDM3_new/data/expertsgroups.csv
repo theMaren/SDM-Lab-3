@@ -1,0 +1,438 @@
+Size,Poster,LinkID,DemoPaper,NumOfChapters,FullPaper,ShortAbstract,ShortPaper,Article,Title,Author,Name,NumExperts,ExpertsGroup,Venue,VenueName,Conference,Proceeding,Handler,StartDate
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID468",ShortArticleID468,ArticleID468,Preliminary investigation of multilobe fighter jet noise sources using acoustical holography,AuthorID199, Alcock C.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 5,HandlerID008,08/05/1989
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID472",ShortArticleID472,ArticleID472,Acoustic shock formation in noise propagation during ground run-up operations of military aircraft,AuthorID203, Anagnostou E.N.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 4,HandlerID008,08/05/1989
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID476",ShortArticleID476,ArticleID476,Feedback regulation of immune response to maximum exercise in Gulf war illness,AuthorID207, Baird S.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 3,HandlerID008,08/05/1989
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID485",ShortArticleID485,ArticleID485,Three-way spectral decompositions of high-performance military aircraft noise,AuthorID216, Beard R.W.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 2,HandlerID008,08/05/1989
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID488",ShortArticleID488,ArticleID488,The effect of communication and vehicle properties on the search performance of a swarm of unmanned aerial vehicles,AuthorID219, Besendorfer J.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 5,HandlerID008,08/05/1989
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID492",ShortArticleID492,ArticleID492,Best practices for wake model and optimization algorithm selection in wind farm layout optimization,AuthorID223, Black J.A.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 4,HandlerID008,08/05/1989
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID496",ShortArticleID496,ArticleID496,Highly compressible origami bellows for microgravity drilling-debris containment,AuthorID227, Boardman B.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 3,HandlerID008,08/05/1989
+,,,,9,FullArticleID457,,,ArticleID457,Optofluidic Platform with Integrated Optical Waveguides and Sample Preparation for Digitized Detection of Nucleic Acid Targets,AuthorID188,Chen G.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 4,HandlerID008,08/05/1989
+,,,,12,FullArticleID459,,,ArticleID459,Data classification and parameter identification in power systems by manifold learning,AuthorID190,Poornejad N.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 1,HandlerID008,08/05/1989
+,,,,19,FullArticleID461,,,ArticleID461,Multiplexed Detection of Single Antibiotic Drug-Resistant Plasmids using Multimode Interference Waveguide Based Optofluidic Chip,AuthorID192,Penner J.F.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 3,HandlerID008,08/05/1989
+,,,,3,FullArticleID470,,,ArticleID470,Characterization of supersonic laboratory-scale jet noise with vector acoustic intensity,AuthorID201, Alejandro A.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 2,HandlerID008,08/05/1989
+,,,,20,FullArticleID473,,,ArticleID473,Crackle-related beamforming of military jet aircraft noise,AuthorID204, Annoni J.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 5,HandlerID008,08/05/1989
+,,,,6,FullArticleID477,,,ArticleID477,Swarm Transparency,AuthorID208, Baliyarasimhuni S.P.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 4,HandlerID008,08/05/1989
+,,,,13,FullArticleID490,,,ArticleID490,Comparison of wind farm layout optimization results using a simple wake model and gradient-based optimization to large-eddy simulations,AuthorID221, Bidstrup C.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 2,HandlerID008,08/05/1989
+,,,,1,FullArticleID493,,,ArticleID493,"Design and analysis of self-deployable, self-stiffening, and retractable arrays",AuthorID224, Black R.A.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 5,HandlerID008,08/05/1989
+,,,,22,FullArticleID497,,,ArticleID497,Folding approaches for tensioned precision planar shell structures,AuthorID228, Bodily P.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 4,HandlerID008,08/05/1989
+,,www.ACM/IEEE International Conference on Human-Robot Interaction.com/DemoArticleID458,DemoArticleID458,,,,,ArticleID458,Irregular quadrature amplitude modulation for adaptive physical-layer security,AuthorID189,Bodily D.M.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 5,HandlerID008,08/05/1989
+,,www.ACM/IEEE International Conference on Human-Robot Interaction.com/DemoArticleID464,DemoArticleID464,,,,,ArticleID464,Gesture commands for controlling high-level UAV behavior,AuthorID195, Adams B.R.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 1,HandlerID008,08/05/1989
+,,www.ACM/IEEE International Conference on Human-Robot Interaction.com/DemoArticleID466,DemoArticleID466,,,,,ArticleID466,Encirclement of moving targets using relative range and bearing measurements,AuthorID197, Aghito M.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 3,HandlerID008,08/05/1989
+,,www.ACM/IEEE International Conference on Human-Robot Interaction.com/DemoArticleID478,DemoArticleID478,,,,,ArticleID478,Haptic Shape-Based Management of Robot Teams in Cordon and Patrol,AuthorID209, Ban H.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 5,HandlerID008,08/05/1989
+,,www.ACM/IEEE International Conference on Human-Robot Interaction.com/DemoArticleID484,DemoArticleID484,,,,,ArticleID484,"A well clear recommendation for small UAS in high-density, ADS-B-enabled airspace",AuthorID215, Beard R.W.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 1,HandlerID008,08/05/1989
+,,www.ACM/IEEE International Conference on Human-Robot Interaction.com/DemoArticleID495,DemoArticleID495,,,,,ArticleID495,Effect of the turbulence modeling in large-eddy simulations of nonpremixed flames undergoing extinction and reignition,AuthorID226, Blonquist J.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 2,HandlerID008,08/05/1989
+,,www.ACM/IEEE International Conference on Human-Robot Interaction.com/DemoArticleID498,DemoArticleID498,,,,,ArticleID498,Multidisciplinary design optimization of flexible solar-regenerative high-altitude long-endurance aircraft,AuthorID229, Bodily P.M.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 5,HandlerID008,08/05/1989
+22,PosterArticleID463,,,,,,,ArticleID463,Visual servoing for multirotor precision landing in daylight and after-dark conditions,AuthorID194,Hunter A.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 5,HandlerID008,08/05/1989
+5,PosterArticleID471,,,,,,,ArticleID471,Beamforming-based wavepacket model for noise environment predictions of tactical aircraft,AuthorID202, Allred D.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 3,HandlerID008,08/05/1989
+30,PosterArticleID483,,,,,,,ArticleID483,Small aircraft flight encounters database for UAS sense and avoid,AuthorID214, Beard R.W.,11,EGCID001,VCID001,ACM/IEEE International Conference on Human-Robot Interaction,CID001,HumRob Ed 5,HandlerID008,08/05/1989
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID631",ShortArticleID631,ArticleID631,Ash deposition during advanced oxy-coal combustion using minimum recycled flue gas,AuthorID362, Hazen G.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID638",ShortArticleID638,ArticleID638,Dynamic grouping of cooperating vehicles using a receding horizon controller for ground target search and track missions,AuthorID369, Hedengren J.D.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID639",ShortArticleID639,ArticleID639,Applying a passive network reconstruction technique to Twitter data in order to identify trend setters,AuthorID370, Hedengren J.D.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID640",ShortArticleID640,ArticleID640,MMI waveguide based multispectral detection of nucleic acids for analysis of drug-resistant bacteria,AuthorID371, Hedengren J.D.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID647",ShortArticleID647,ArticleID647,Modeling the coanda effect with FDS and STARCCM+ to predict the effect of fires on slopes for implications of wildland firefighter safety,AuthorID378, Homer E.R.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID651",ShortArticleID651,ArticleID651,Investigation of merging flames in Horizontal and vertical Geometries,AuthorID382, Hosemann P.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID658",ShortArticleID658,ArticleID658,Spatiotemporal correlation analysis of jet noise from a round-nozzle supersonic aircraft,AuthorID389, Howell L.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID659",ShortArticleID659,ArticleID659,Inclusion of broadband shock-associated noise in spectral decomposition of noise from highperformance military aircraft,AuthorID390, Howell L.L.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID660",ShortArticleID660,ArticleID660,Dependence of high-performance military aircraft noise on frequency and engine power,AuthorID391, Howell L.L.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID667",ShortArticleID667,ArticleID667,Single-Event Characterization of 16 nm FinFET Xilinx UltraScale+ Devices with Heavy Ion and Neutron Irradiation,AuthorID398, Hsu C.-W.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID671",ShortArticleID671,ArticleID671,Modified Material Properties in Curved Panels Through Lamina Emergent Torsional Joints,AuthorID402, Iverson B.D.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID678",ShortArticleID678,ArticleID678,Sediment management in U.S. reservoirs: Challenges and progress [Gestion des sédiments dans les retenues américaines: Défis et progrès],AuthorID409, Jain A.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID679",ShortArticleID679,ArticleID679,Development and testing of an innovative architectural programming simulation as a precursor to target value design,AuthorID410, Jenkins D.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID680",ShortArticleID680,ArticleID680,Relative target estimation using a cascade of extended Kalman filters,AuthorID411, Jensen B.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID689",ShortArticleID689,ArticleID689,Corrigendum: Efficient decellularization of whole porcine kidneys improves reseeded cell behavior (Biomedical Materials (Bristol) (2016) 11 (025003) DOI: 10.1088/1748-6041/11/2/025003),AuthorID420, Jones M.R.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID693",ShortArticleID693,ArticleID693,Field testing of Cryogenic Carbon Capture,AuthorID424, Jorgensen J.J.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID695",ShortArticleID695,ArticleID695,Closed-Loop PID Re-Tuning in a Digital Twin by Re-Playing Past Setpoint and Load Disturbance Data,AuthorID426, Kern E.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID696",ShortArticleID696,ArticleID696,Moderating operator influence in human-swarm systems,AuthorID427, Killian M.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID702",ShortArticleID702,ArticleID702,Identifying mode shapes of turbo-machinery blades using principal component analysis and support vector machines,AuthorID433, Knight C.J.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID709",ShortArticleID709,ArticleID709,Architecture exploration for HLS-oriented FPGA debug overlays,AuthorID440, Lang R.J.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID713",ShortArticleID713,ArticleID713,Physical-Layer Security: Does it Work in a Real Environment?,AuthorID444, Layton T.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID715",ShortArticleID715,ArticleID715,Full-Duplex Jamming for Enhanced Hidden-Key Secrecy,AuthorID446, Lee D.-J.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID716",ShortArticleID716,ArticleID716,Adaptive Physical-Layer Security Through Punctured Coding for Secrecy,AuthorID447, Lee K.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID722",ShortArticleID722,ArticleID722,Extended Abstract: Comparison of Peer and Instructor Qualitative Feedback on Presentations,AuthorID453, Lignell D.O.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID729",ShortArticleID729,ArticleID729,Hybrid power system state estimation with irregular sampling,AuthorID460, Lunt B.M.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID733",ShortArticleID733,ArticleID733,An 8-bit 10-GHz 21-mW Time-Interleaved SAR ADC with Grouped DAC Capacitors and Dual-Path Bootstrapped Switch,AuthorID464, Maccarty N.A.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID735",ShortArticleID735,ArticleID735,Whole genome phylogenetic tree reconstruction using colored de bruijn graphs,AuthorID466, Magleby S.P.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID736",ShortArticleID736,ArticleID736,Modeling global and local codon bias with deep language models,AuthorID467, Magleby S.P.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID744",ShortArticleID744,ArticleID744,"Using a Deep Learning Model, Content Features, and Author Metadata to Recommend Research Papers",AuthorID475, Magleby S.P.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID751",ShortArticleID751,ArticleID751,"Multi-objective design optimization of a soft, pneumatic robot",AuthorID482, Matsubara E.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID752",ShortArticleID752,ArticleID752,Motion planning for mobile robots using inverse kinematics branching,AuthorID483, Mattson C.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID753",ShortArticleID753,ArticleID753,Space-Time Coded ARTM CPM for Aeronautical Telemetry,AuthorID484, Mattson C.A.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID755",ShortArticleID755,ArticleID755,ENIGMA military brain injury: A coordinated meta-analysis of diffusion MRI from multiple cohorts,AuthorID486, Maynes D.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID764",ShortArticleID764,ArticleID764,"Factor analysis in automated face detection: Gender, occlusion, eyewear, brightness, contrast, and focus measure",AuthorID495, Meratnia N.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID771",ShortArticleID771,ArticleID771,3D printing for lab-on-a-chip devices with 20 μm channels,AuthorID502, Morgan D.C.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID772",ShortArticleID772,ArticleID772,Weighing Context and Trade-offs: How suburban adults selected their online security posture,AuthorID503, Moss N.D.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID773",ShortArticleID773,ArticleID773,"Is that you, Alice? A usability study of the authentication ceremony of secure messaging applications",AuthorID504, Nash R.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID775",ShortArticleID775,ArticleID775,Action needed! Helping users find and complete the authentication ceremony in signal,AuthorID506, Neilsen T.B.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+,,,,6,FullArticleID632,,,ArticleID632,Analysis of pyrolysis products from live shrub fuels,AuthorID363, He J.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+,,,,10,FullArticleID636,,,ArticleID636,One-dimensional turbulence modelling of a lifted methane/air jet flame in a vitiated coflow,AuthorID367, Hedengren J.D.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+,,,,15,FullArticleID643,,,ArticleID643,Dynamic SEE Testing of Selected Architectural Features of Xilinx 28 nm Virtex-7 FPGAs,AuthorID374, Henrichsen A.M.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,,,23,FullArticleID644,,,ArticleID644,Using tripartite graphs to make long tail recommendations,AuthorID375, Herder J.L.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,,,5,FullArticleID645,,,ArticleID645,CrsRecs: A personalized course recommendation system for college students,AuthorID376, High G.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+,,,,20,FullArticleID652,,,ArticleID652,Impact of particle properties on radiative heat flux in an oxy-coal reactor,AuthorID383, Hou H.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+,,,,1,FullArticleID656,,,ArticleID656,Local control and estimation performance in dynamical networks: Structural and graph-theoretic results,AuthorID387, Howell L.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+,,,,12,FullArticleID663,,,ArticleID663,Development of a vortex particle code for the modeling of wake interaction in distributed propulsion,AuthorID394, Howell L.L.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,,,1,FullArticleID664,,,ArticleID664,Evaluation and optimization of dynamic cone penetration test (DPT) for assessment of liquefaction in gravelly soils,AuthorID395, Howell L.L.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,,,16,FullArticleID665,,,ArticleID665,"Exploration of three dimensional, hierarchical, large scale UAV system interactions",AuthorID396, Howell L.L.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+,,,,25,FullArticleID672,,,ArticleID672,Implementation of Rolling Contacts for SORCE Joints,AuthorID403, Iverson B.D.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+,,,,13,FullArticleID676,,,ArticleID676,Environmental and track factors that contribute to abrasion damage,AuthorID407, Jacobsen A.J.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+,,,,3,FullArticleID683,,,ArticleID683,Probabilistic Network Observability of a Hybrid Power System with Communication Irregularities,AuthorID414, Jeong Y.-H.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,,,2,FullArticleID684,,,ArticleID684,Network Reduction in Transient Stability Models using Partial Response Matching,AuthorID415, Jesiek B.K.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,,,4,FullArticleID687,,,ArticleID687,Microfluidic temperature behavior in a multi-material 3D printed chip,AuthorID418, Johnson C.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+,,,,17,FullArticleID694,,,ArticleID694,Impact of computational mesh on CFD combustion predictions,AuthorID425, Kayen R.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+,,,,15,FullArticleID698,,,ArticleID698,Single-Shot Measurement of Extreme Ultraviolet Free Electron Laser Pulses,AuthorID429, Killpack M.D.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+,,,,9,FullArticleID700,,,ArticleID700,Measured Polarization Components of Nonlinear Thomson Scattering,AuthorID431, King R.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,,,16,FullArticleID701,,,ArticleID701,Visio-acoustic data fusion for structural health monitoring applications,AuthorID432, Klein M.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,,,22,FullArticleID707,,,ArticleID707,A review of binarized neural networks,AuthorID438, Kurata M.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+,,,,24,FullArticleID714,,,ArticleID714,Nested QPSK Encoding for Information Theoretic Security,AuthorID445, Leary H.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+,,,,25,FullArticleID718,,,ArticleID718,An APMonitor Temperature Lab PID Control Experiment for Undergraduate Students,AuthorID449, Lemonnier D.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+,,,,14,FullArticleID720,,,ArticleID720,Bias estimation for angle-only sensors in distributed multi-target tracking systems,AuthorID451, Li Y.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,,,29,FullArticleID721,,,ArticleID721,Toward quantitative characterization of essential tremor for future tremor suppression,AuthorID452, Lignell D.O.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,,,18,FullArticleID727,,,ArticleID727,Selective Laser Melting aluminum waveguide attenuation at K-band,AuthorID458, Lovasz E.-C.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+,,,,25,FullArticleID734,,,ArticleID734,Polar coding for physical-layer security without knowledge of the eavesdropper's channel,AuthorID465, Magleby S.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+,,,,30,FullArticleID738,,,ArticleID738,Layering Security at Global Control Points to Secure Unmodified Software,AuthorID469, Magleby S.P.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+,,,,2,FullArticleID740,,,ArticleID740,A graduate school recommendation system using the multi-class support vector machine and KNN approaches,AuthorID471, Magleby S.P.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,,,29,FullArticleID741,,,ArticleID741,Influence of Communication Irregularities and Co-simulation on Hybrid Power System State Estimation,AuthorID472, Magleby S.P.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,,,2,FullArticleID749,,,ArticleID749,Informing the use of hyperparameter optimization through metalearning,AuthorID480, Martinez T.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+,,,,3,FullArticleID756,,,ArticleID756,The polygraph: A data structure for genome alignment and variation detection,AuthorID487, Maynes D.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+,,,,23,FullArticleID757,,,ArticleID757,When does a human replan? Exploring intent-based replanning in multi-objective path planning,AuthorID488, Mazzeo B.A.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,,,1,FullArticleID758,,,ArticleID758,Volumetric display by movement of particles trapped in a laser via photophoresis,AuthorID489, McLain T.W.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,,,23,FullArticleID760,,,ArticleID760,Targeted 3D modeling from UAV imagery,AuthorID491, McMurray J.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+,,,,4,FullArticleID769,,,ArticleID769,Adding EUV reflectance to aluminum-coated mirrors for space-based observation,AuthorID500, Miles M.P.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+,,,,26,FullArticleID776,,,ArticleID776,A comparative usability study of key management in secure email,AuthorID507, Neilsen T.B.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+,,,,26,FullArticleID777,,,ArticleID777,The fog of warnings: How non-essential notifications blur with security warnings,AuthorID508, Neilsen T.B.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,,,30,FullArticleID778,,,ArticleID778,A usability study of five two-factor authentication methods,AuthorID509, Neilsen T.B.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID628,DemoArticleID628,,,,,ArticleID628,Semi-empirical model for fire spread in chamise and big sagebrush shrubs with spatially-defined fuel elements and flames,AuthorID359, Hawkins A.R.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID629,DemoArticleID629,,,,,ArticleID629,Modeling soot in coal systems,AuthorID360, Hawkins A.R.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID630,DemoArticleID630,,,,,ArticleID630,Investigation of merging flames in horizontal and vertical geometries,AuthorID361, Hawkins A.R.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID637,DemoArticleID637,,,,,ArticleID637,Systems analysis of EV adoption and criteria pollutant accumulation during inversion events,AuthorID368, Hedengren J.D.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID641,DemoArticleID641,,,,,ArticleID641,Design and characterization of integrated 2D ABEL trap,AuthorID372, Hedengren J.D.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID648,DemoArticleID648,,,,,ArticleID648,Modeling soot formation from solid complex fuels,AuthorID379, Homer E.R.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID649,DemoArticleID649,,,,,ArticleID649,Modeling effects of annealing on coal char reactivity to O2 and CO2 based on preparation conditions,AuthorID380, Hooper K.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID650,DemoArticleID650,,,,,ArticleID650,Modeling a pressurized coal feed system,AuthorID381, Hopkins B.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID657,DemoArticleID657,,,,,ArticleID657,Counter UAS using a formation controlled dragnet,AuthorID388, Howell L.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID661,DemoArticleID661,,,,,ArticleID661,Comparison of noise from high-performance military aircraft for ground run-up and flyover operations,AuthorID392, Howell L.L.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID668,DemoArticleID668,,,,,ArticleID668,Neutron Radiation Beam Results for the Xilinx UltraScale+ MPSoC,AuthorID399, Hughes T.J.R.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID669,DemoArticleID669,,,,,ArticleID669,Relative visual-inertial odometry for fixed-wing aircraft in GPS-denied environments,AuthorID400, Hutchings B.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID670,DemoArticleID670,,,,,ArticleID670,Zipper Tube Reinforcement to Mitigate Flexible Shaft Buckling,AuthorID401, Ignaut B.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID677,DemoArticleID677,,,,,ArticleID677,Geometrically Motivated Reparameterization for Identifiability Analysis in Power Systems Models,AuthorID408, Jadbabaie A.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID681,DemoArticleID681,,,,,ArticleID681,Pull-out strength of fiberglass/epoxy composite rebar manufactured using a three-dimensional braiding process,AuthorID412, Jensen B.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID685,DemoArticleID685,,,,,ArticleID685,Semantic style creation,AuthorID416, Jiang Z.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID686,DemoArticleID686,,,,,ArticleID686,Thermal properties of thin film uranium oxides and thorium oxides,AuthorID417, Johnson A.W.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID692,DemoArticleID692,,,,,ArticleID692,Characterization and validation of in situ void formation during resin infusion,AuthorID423, Jones S.H.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID699,DemoArticleID699,,,,,ArticleID699,Picking Out Nonlinear Collective Couplings with Two-Dimensional Terahertz Spectroscopy,AuthorID430, Kim M.D.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID703,DemoArticleID703,,,,,ArticleID703,Augmented Reality for Interactive Robot Control,AuthorID434, Knotts T.A.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID705,DemoArticleID705,,,,,ArticleID705,The emerging impact of cell-free chemical biosynthesis,AuthorID436, Krutka D.G.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID706,DemoArticleID706,,,,,ArticleID706,Synchronization between sensors and cameras in movement data labeling frameworks,AuthorID437, Kuan Y.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID712,DemoArticleID712,,,,,ArticleID712,The winds and currents mission concept,AuthorID443, Layton K.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID719,DemoArticleID719,,,,,ArticleID719,Deep visual gravity vector detection for unmanned aircraft attitude estimation,AuthorID450, Levy O.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID723,DemoArticleID723,,,,,ArticleID723,Bad news first: How optimal directness depends on what is negated,AuthorID454, Lin Q.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID725,DemoArticleID725,,,,,ArticleID725,Guest Editorial Special Issue on Marine and Maritime Radar Remote Sensing,AuthorID456, Liu F.C.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID726,DemoArticleID726,,,,,ArticleID726,Guest editorial an overview of the seabed characterization experiment,AuthorID457, Lopes C.V.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID732,DemoArticleID732,,,,,ArticleID732,High-Speed Interrogation of Multiplexed Fiber Bragg Gratings with Spectral Distortion,AuthorID463, MacCarty N.A.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID739,DemoArticleID739,,,,,ArticleID739,Movie recommendations using the deep learning approach,AuthorID470, Magleby S.P.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID742,DemoArticleID742,,,,,ArticleID742,FleCSPH: A parallel and distributed smoothed particle hydrodynamics framework based on FleCSI,AuthorID473, Magleby S.P.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID743,DemoArticleID743,,,,,ArticleID743,Neutron radiation testing of fault tolerant risc-v soft processor on xilinx SRAM-based FPGAs,AuthorID474, Magleby S.P.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID745,DemoArticleID745,,,,,ArticleID745,Kcollections: A fast and efficient library for K-mers,AuthorID476, Mancini S.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID754,DemoArticleID754,,,,,ArticleID754,A Tale of Two Studies: The Best and Worst of YubiKey Usability,AuthorID485, Maxfield J.H.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID761,DemoArticleID761,,,,,ArticleID761,Progress in transparent flat-panel holographic displays enabled by guided-wave acousto-optics,AuthorID492, Meaker K.S.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID762,DemoArticleID762,,,,,ArticleID762,Near-to-eye electroholography via guided-wave acousto-optics for augmented reality,AuthorID493, Mehmood R.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID763,DemoArticleID763,,,,,ArticleID763,Multi-timescale pump-probe spectroscopy using time-encoding and time-stretching methods,AuthorID494, Mehmood R.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID765,DemoArticleID765,,,,,ArticleID765,Experimental characterization of leaky-mode spatial light modulators fabricated via direct laser writing,AuthorID496, Merrill R.M.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+,,www.IEEE Emerging IT Conference .com/DemoArticleID774,DemoArticleID774,,,,,ArticleID774,When is a tree really a truck? Exploring mental models of encryption,AuthorID505, Navrotsky A.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+7,PosterArticleID633,,,,,,,ArticleID633,A comprehensive model of single particle pulverized coal combustion extended to oxy-coal conditions,AuthorID364, Heath Ogden T.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+20,PosterArticleID634,,,,,,,ArticleID634,A comprehensive model for predicting elemental composition of coal pyrolysis products,AuthorID365, Hedengren J.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+21,PosterArticleID635,,,,,,,ArticleID635,Simulation and exploration of high-density unmanned aerial vehicle systems,AuthorID366, Hedengren J.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+29,PosterArticleID642,,,,,,,ArticleID642,"Move the Laser Spot, Not the DUT: Investigating the New Micro-mirror Capability and Challenges for Localizing SEE Sites on Large Modern ICs",AuthorID373, Heidbrink S.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+13,PosterArticleID646,,,,,,,ArticleID646,Pyrolysis of live vegetation at slow heating rates,AuthorID377, Hirons E.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+9,PosterArticleID653,,,,,,,ArticleID653,A fast-running simulation tool for axisymmetric oxy-coal combustors,AuthorID384, Hovanski Y.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+15,PosterArticleID654,,,,,,,ArticleID654,On the well-posedness of LTI networks,AuthorID385, Hovanski Y.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+27,PosterArticleID655,,,,,,,ArticleID655,Necessary and sufficient conditions for identifiability of interconnected subsystems,AuthorID386, Howarth J.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+22,PosterArticleID662,,,,,,,ArticleID662,Universal airfoil parametrization using B-splines,AuthorID393, Howell L.L.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+25,PosterArticleID666,,,,,,,ArticleID666,Using physical and functional comparisons to assure 3rd-party IP for modern FPGAs,AuthorID397, Howell L.L.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+18,PosterArticleID673,,,,,,,ArticleID673,An Origami-based Thickness-Accommodating Bistable Mechanism in Monolithic Thick-sheet Materials,AuthorID404, Iverson B.D.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+16,PosterArticleID674,,,,,,,ArticleID674,Learned Search Parameters for Cooperating Vehicles using Gaussian Process Regressions,AuthorID405, Iverson B.D.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+10,PosterArticleID675,,,,,,,ArticleID675,Autonomous target following with monocular camera on UAS using Recursive-RANSAC tracker,AuthorID406, Iverson B.D.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+25,PosterArticleID682,,,,,,,ArticleID682,Gradient-based optimization of wind farms with different turbine heights,AuthorID413, Jensen B.D.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+5,PosterArticleID688,,,,,,,ArticleID688,Effects of laser ablation parameters to pattern high purity magnesium surfaces,AuthorID419, Johnson H.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+10,PosterArticleID690,,,,,,,ArticleID690,Isogeometric design and analysis,AuthorID421, Jones M.R.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+17,PosterArticleID691,,,,,,,ArticleID691,Pull-out strength of composite rebar made using a three-dimensional braiding machine,AuthorID422, Jones M.R.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+22,PosterArticleID697,,,,,,,ArticleID697,Intent-based robotic path-replanning: When to adapt new paths in dynamic environments,AuthorID428, Killpack M.D.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+14,PosterArticleID704,,,,,,,ArticleID704,Evaluation of curve fitting techniques for estimating time of surcharge release in embankment construction over soft soils,AuthorID435, Koehler R.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+12,PosterArticleID708,,,,,,,ArticleID708,Improving full-scale models of new carbon capture technologies with uncertainty quantification,AuthorID439, Kvavle J.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+5,PosterArticleID710,,,,,,,ArticleID710,On-chip FPGA debug instrumentation for machine learning applications,AuthorID441, Larsen R.T.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+15,PosterArticleID711,,,,,,,ArticleID711,Impact of soft errors on large-scale FPGA cloud computing,AuthorID442, Lavin C.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+22,PosterArticleID717,,,,,,,ArticleID717,A Rateless Approach to Physical-Layer Security,AuthorID448, Leete K.M.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+16,PosterArticleID724,,,,,,,ArticleID724,Using Partial Duplication with Compare to Detect Radiation-Induced Failure in a Commercial FPGA-Based Networking System,AuthorID455, List M.G.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+15,PosterArticleID728,,,,,,,ArticleID728,Simultaneous Global Identification of Dynamic and Network Parameters in Transient Stability Studies,AuthorID459, Luk W.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+6,PosterArticleID730,,,,,,,ArticleID730,Single-Event Characterization of a Stratix® 10 FPGA Using Neutron Irradiation,AuthorID461, Luscher D.J.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+20,PosterArticleID731,,,,,,,ArticleID731,Computational Modeling of Wound Suture: A Review,AuthorID462, Lytle J.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+14,PosterArticleID737,,,,,,,ArticleID737,Genome polymorphism detection through relaxed de bruijn graph construction,AuthorID468, Magleby S.P.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+18,PosterArticleID746,,,,,,,ArticleID746,Don't Punish all of us: Measuring User Attitudes about Two-Factor Authentication,AuthorID477, Manning A.D.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+16,PosterArticleID747,,,,,,,ArticleID747,Predicting the maximum endurance time for left-side bridge exercise using machine learning methods and hybrid data,AuthorID478, Martens D.R.W.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+22,PosterArticleID748,,,,,,,ArticleID748,Modeling common cause failures in systems with triple modular redundancy and repair,AuthorID479, Martineau A.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+13,PosterArticleID750,,,,,,,ArticleID750,Variable stiffness adaptation to mitigate system failure in inflatable robots,AuthorID481, Mascareñas D.D.L.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+21,PosterArticleID759,,,,,,,ArticleID759,Using ellipsometry and X-ray photoelectron spectroscopy for real-time monitoring of the oxidation of aluminum mirrors protected by ultrathin MgF2 layers,AuthorID490, McLain T.W.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+11,PosterArticleID766,,,,,,,ArticleID766,Atomic flux circuits,AuthorID497, Metro D.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 5,HandlerID012,03/03/2002
+10,PosterArticleID767,,,,,,,ArticleID767,Architectures for Earth-observing CubeSat scatterometers,AuthorID498, Milani A.S.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 1,HandlerID012,03/03/2002
+25,PosterArticleID768,,,,,,,ArticleID768,Alternative diffusion anisotropy measures for the investigation of white matter alterations in 22q11.2 deletion syndrome,AuthorID499, Milani A.S.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 2,HandlerID012,03/03/2002
+25,PosterArticleID770,,,,,,,ArticleID770,A graph-theoretic understanding of network-wide implications of local cyber protections for mission assurance,AuthorID501, Monaco P.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 4,HandlerID012,03/03/2002
+15,PosterArticleID779,,,,,,,ArticleID779,"“Something isn't secure, but I'm not sure how that translates into a problem”: Promoting autonomy by designing for understanding in Signal",AuthorID510, Nelsen B.W.,10,EGCID005,VCID005,IEEE Emerging IT Conference ,CID005,EmIT Ed 3,HandlerID012,03/03/2002
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID454",ShortArticleID454,ArticleID454,3D printed microfluidic selectable ratio mixer pump in 2 mm3,AuthorID185,Roy J.,12,EGCID008,VCID008,"International Conference on Science, Technology, Engineering and Management (ICSTEM)",CID008,ICSTEM Ed 1,HandlerID015,08/05/1989
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID474",ShortArticleID474,ArticleID474,Coherence analysis of the noise from a simulated highly-heated laboratory-scale jet,AuthorID205, Armknecht J.,12,EGCID008,VCID008,"International Conference on Science, Technology, Engineering and Management (ICSTEM)",CID008,ICSTEM Ed 1,HandlerID015,08/05/1989
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID494",ShortArticleID494,ArticleID494,Analysis of distortion phase shift in a highly loaded fan stage,AuthorID225, Blackshaw R.E.,12,EGCID008,VCID008,"International Conference on Science, Technology, Engineering and Management (ICSTEM)",CID008,ICSTEM Ed 1,HandlerID015,08/05/1989
+,,,,21,FullArticleID479,,,ArticleID479,Design and Evaluation of Adverb Palette: A GUI for Selecting Tradeoffs in Multi-objective Optimization Problems,AuthorID210, Barrios J.A.,12,EGCID008,VCID008,"International Conference on Science, Technology, Engineering and Management (ICSTEM)",CID008,ICSTEM Ed 1,HandlerID015,08/05/1989
+,,,,21,FullArticleID499,,,ArticleID499,Large-scale multidisciplinary optimization of an electric aircraft for on-demand mobility,AuthorID230, Boettcher E.,12,EGCID008,VCID008,"International Conference on Science, Technology, Engineering and Management (ICSTEM)",CID008,ICSTEM Ed 1,HandlerID015,08/05/1989
+,,www.ACM/IEEE International Conference on Human-Robot Interaction.com/DemoArticleID455,DemoArticleID455,,,,,ArticleID455,Simplified modeling for soot formation from solid fuels,AuthorID186,Bodily D.M.,12,EGCID008,VCID008,"International Conference on Science, Technology, Engineering and Management (ICSTEM)",CID008,ICSTEM Ed 2,HandlerID015,08/05/1989
+,,www.ACM/IEEE International Conference on Human-Robot Interaction.com/DemoArticleID475,DemoArticleID475,,,,,ArticleID475,The PepSeq Pipeline: Software for Antimicrobial Motif Discovery in Randomly-Generated Peptide Libraries,AuthorID206, Awerkamp P.,12,EGCID008,VCID008,"International Conference on Science, Technology, Engineering and Management (ICSTEM)",CID008,ICSTEM Ed 2,HandlerID015,08/05/1989
+19,PosterArticleID460,,,,,,,ArticleID460,Three-Dimensional Hydrodynamic Focusing Designs for Integrated Optofluidic Detection Enhancement,AuthorID191,Kimmons R.,12,EGCID008,VCID008,"International Conference on Science, Technology, Engineering and Management (ICSTEM)",CID008,ICSTEM Ed 2,HandlerID015,08/05/1989
+28,PosterArticleID480,,,,,,,ArticleID480,"Binder jetting: A review of process, materials, and methods",AuthorID211, Basko R.,12,EGCID008,VCID008,"International Conference on Science, Technology, Engineering and Management (ICSTEM)",CID008,ICSTEM Ed 2,HandlerID015,08/05/1989
+20,PosterArticleID500,,,,,,,ArticleID500,Distributed electric propulsion effects on traditional aircraft through multidisciplinary optimization,AuthorID231, Bohn R.E.,12,EGCID008,VCID008,"International Conference on Science, Technology, Engineering and Management (ICSTEM)",CID008,ICSTEM Ed 2,HandlerID015,08/05/1989
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID456",ShortArticleID456,ArticleID456,Single Particle Detection Enhancement with Wavelet-based Signal Processing Technique,AuthorID187,Vaziripour E.,8,EGCID009,VCID009,IEEE International Conference on Robotics and Automation (ICRA),CID009,ICRA Ed 2,HandlerID016,09/05/1989
+,,,,19,FullArticleID481,,,ArticleID481,Mixing plane simulation of a high-performance fan using kestrel,AuthorID212, Basko R.,8,EGCID009,VCID009,IEEE International Conference on Robotics and Automation (ICRA),CID009,ICRA Ed 1,HandlerID016,09/05/1989
+,,www.ACM/IEEE International Conference on Human-Robot Interaction.com/DemoArticleID462,DemoArticleID462,,,,,ArticleID462,Free Space Excitation in Optofluidic Devices for Single Particle Detection,AuthorID193,Transtrum M.K.,8,EGCID009,VCID009,IEEE International Conference on Robotics and Automation (ICRA),CID009,ICRA Ed 2,HandlerID016,09/05/1989
+8,PosterArticleID469,,,,,,,ArticleID469,Level-educed wavepacket representation of Mach 1.8 laboratory-scale jet noise,AuthorID200, Alejandro A.,8,EGCID009,VCID009,IEEE International Conference on Robotics and Automation (ICRA),CID009,ICRA Ed 1,HandlerID016,09/05/1989
+7,PosterArticleID487,,,,,,,ArticleID487,A modeling framework for assessing cyber disruptions and attacks to the national airspace system,AuthorID218, Berg D.C.,8,EGCID009,VCID009,IEEE International Conference on Robotics and Automation (ICRA),CID009,ICRA Ed 2,HandlerID016,09/05/1989
+,,,,,,"Abstract: Lorep Ipsum, fake abstract for  ShortArticleID465",ShortArticleID465,ArticleID465,Error-state LQR control of a multirotor UAV,AuthorID196, Adidharma H.,11,EGCID010,VCID010,ACM International Conference on Computer Science and Engineering (ICSE),CID010,ICSE Ed 2,HandlerID017,06/06/2010
+,,www.ACM/IEEE International Conference on Human-Robot Interaction.com/DemoArticleID482,DemoArticleID482,,,,,ArticleID482,Analysis of distortion transfer and generation through a compressor using the harmonic balance approach,AuthorID213, Baxter L.L.,11,EGCID010,VCID010,ACM International Conference on Computer Science and Engineering (ICSE),CID010,ICSE Ed 1,HandlerID017,06/06/2010
+,,www.ACM/IEEE International Conference on Human-Robot Interaction.com/DemoArticleID486,DemoArticleID486,,,,,ArticleID486,"Self-deployable, self-stiffening, and retractable origami-based arrays for spacecraft",AuthorID217, Bender C.,11,EGCID010,VCID010,ACM International Conference on Computer Science and Engineering (ICSE),CID010,ICSE Ed 2,HandlerID017,06/06/2010
+17,PosterArticleID467,,,,,,,ArticleID467,Deep RC: Enabling remote control through deep learning,AuthorID198, Akamine M.,11,EGCID010,VCID010,ACM International Conference on Computer Science and Engineering (ICSE),CID010,ICSE Ed 1,HandlerID017,06/06/2010
+25,PosterArticleID489,,,,,,,ArticleID489,Simulating stall inception in a high-performance fan using createt m-av kestrel,AuthorID220, Bhamra T.,11,EGCID010,VCID010,ACM International Conference on Computer Science and Engineering (ICSE),CID010,ICSE Ed 2,HandlerID017,06/06/2010
+17,PosterArticleID491,,,,,,,ArticleID491,"Combined trajectory, propulsion and battery mass optimization for solar-regenerative high-altitude long endurance unmanned aircraft",AuthorID222, Bischoff M.,11,EGCID010,VCID010,ACM International Conference on Computer Science and Engineering (ICSE),CID010,ICSE Ed 2,HandlerID017,06/06/2010
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,

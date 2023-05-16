@@ -1,0 +1,454 @@
+﻿NumOfChapters,FullPaper,Article,Title,Author,Name,Venue,VenueName,Journal,Volume,Handler,StartDate
+8,FullArticleID006,ArticleID006,The Locational Impact of Site-Specific PEGylation: Streamlined Screening with Cell-Free Protein Expression and Coarse-Grain Simulation,AuthorID006,Rajnarayan D.,VJID001,AIAA Journal,JID001,AIAA Journal Vol 1,HandlerID001,01/02/1990
+3,FullArticleID008,ArticleID008,Self-Sustaining 3D Thin Liquid Films in Ambient Environments,AuthorID008,Neff C.,VJID001,AIAA Journal,JID001,AIAA Journal Vol 3,HandlerID001,01/02/1990
+11,FullArticleID009,ArticleID009,The spectral line weighted-sum-of-gray-gases (SLW) model for prediction of radiative transfer in molecular gases,AuthorID009,Neilsen T.B.,VJID001,AIAA Journal,JID001,AIAA Journal Vol 4,HandlerID002,12/03/2006
+11,FullArticleID010,ArticleID010,Traverses for the ISECG-GER design reference mission for humans on the lunar surface,AuthorID010,Dryer Z.,VJID001,AIAA Journal,JID001,AIAA Journal Vol 5,HandlerID002,12/03/2006
+10,FullArticleID017,ArticleID017,Estimation of 3D Ground Reaction Force Using Nanocomposite Piezo-Responsive Foam Sensors During Walking,AuthorID017,Bahari M.,VJID001,AIAA Journal,JID001,AIAA Journal Vol 2,HandlerID001,01/02/1990
+4,FullArticleID018,ArticleID018,Performance comparison of low temperature and chemical absorption carbon capture processes in response to dynamic electricity demand and price profiles,AuthorID018,Rogers W.,VJID001,AIAA Journal,JID001,AIAA Journal Vol 3,HandlerID001,01/02/1990
+7,FullArticleID024,ArticleID024,Optical electric field sensor sensitivity direction rerouting and enhancement using a passive integrated dipole antenna,AuthorID024,Arabian F.,VJID001,AIAA Journal,JID001,AIAA Journal Vol 4,HandlerID002,12/03/2006
+10,FullArticleID028,ArticleID028,Hardware and software improvements to a low-cost horizontal parallax holographic video monitor,AuthorID028,Farnsworth C.B.,VJID001,AIAA Journal,JID001,AIAA Journal Vol 3,HandlerID001,01/02/1990
+11,FullArticleID030,ArticleID030,From lignocellulose to biocomposite: Multi-level modelling and experimental investigation of the thermal properties of kenaf fiber reinforced composites based on constituent materials,AuthorID030,Dromey C.,VJID001,AIAA Journal,JID001,AIAA Journal Vol 5,HandlerID002,12/03/2006
+7,FullArticleID040,ArticleID040,Multiplexed efficient on-chip sample preparation and sensitive amplification-free detection of Ebola virus,AuthorID040,Zou Z.,VJID001,AIAA Journal,JID001,AIAA Journal Vol 5,HandlerID002,12/03/2006
+3,FullArticleID041,ArticleID041,CIP2A immunosensor comprised of vertically-aligned carbon nanotube interdigitated electrodes towards point-of-care oral cancer screening,AuthorID041,Loiseau J.,VJID001,AIAA Journal,JID001,AIAA Journal Vol 1,HandlerID001,01/02/1990
+6,FullArticleID043,ArticleID043,"Compositional MRI of the Hip: Reproducibility, Effect of Joint Unloading, and Comparison of T2 Relaxometry with Delayed Gadolinium-Enhanced Magnetic Resonance Imaging of Cartilage",AuthorID043,Lyman C.A.,VJID001,AIAA Journal,JID001,AIAA Journal Vol 3,HandlerID001,01/02/1990
+12,FullArticleID045,ArticleID045,Soft body armor time-dependent back face deformation (BFD) with ballistics gel backing,AuthorID045,Safdari M.-S.,VJID001,AIAA Journal,JID001,AIAA Journal Vol 5,HandlerID002,12/03/2006
+3,FullArticleID052,ArticleID052,Generalized regular k-point grid generation on the fly,AuthorID002,Nysetvold T.B.,VJID001,AIAA Journal,JID001,AIAA Journal Vol 2,HandlerID001,01/02/1990
+5,FullArticleID056,ArticleID056,S-splines: A simple surface solution for IGA and CAD,AuthorID006,Rajnarayan D.,VJID001,AIAA Journal,JID001,AIAA Journal Vol 1,HandlerID001,01/02/1990
+8,FullArticleID059,ArticleID059,Isogeometric BÃ©zier dual mortaring: Refineable higher-order spline dual bases and weakly continuous geometry,AuthorID009,Neilsen T.B.,VJID001,AIAA Journal,JID001,AIAA Journal Vol 4,HandlerID002,12/03/2006
+11,FullArticleID063,ArticleID063,An isogeometric Reissnerâ€“Mindlin shell element based on BÃ©zier dual basis functions: Overcoming locking and improved coarse mesh accuracy,AuthorID013,Liu F.C.,VJID001,AIAA Journal,JID001,AIAA Journal Vol 3,HandlerID001,01/02/1990
+8,FullArticleID069,ArticleID069,Associative CAD references in the neutral parametric canonical form,AuthorID019,Pehrson N.A.,VJID002,IEEE Robotics and Automation Letters,JID002,IEEE RAL Vol 5,HandlerID003,09/06/1997
+6,FullArticleID080,ArticleID080,Synthesis of high-specific volume carbon nanotube structures for gas-phase applications,AuthorID030,Dromey C.,VJID002,IEEE Robotics and Automation Letters,JID002,IEEE RAL Vol 1,HandlerID003,09/06/1997
+5,FullArticleID092,ArticleID092,Discrete-ordinates modelling of the radiative heat transfer in a pilot-scale rotary kiln,AuthorID042,Villalon-Reina J.E.,VJID002,IEEE Robotics and Automation Letters,JID002,IEEE RAL Vol 3,HandlerID003,09/06/1997
+9,FullArticleID100,ArticleID100,Lab-scale observations of flame attachment on slopes with implications for firefighter safety zones,AuthorID050,Swindlehurst E.,VJID002,IEEE Robotics and Automation Letters,JID002,IEEE RAL Vol 1,HandlerID003,09/06/1997
+11,FullArticleID103,ArticleID103,Volume and frequency-independent spreading of droplets driven by ultrasonic surface vibration,AuthorID003,Afran M.S.,VJID002,IEEE Robotics and Automation Letters,JID002,IEEE RAL Vol 4,HandlerID003,09/06/1997
+6,FullArticleID106,ArticleID106,Improving running economy through altered shoe bending stiffness across speeds,AuthorID006,Rajnarayan D.,VJID002,IEEE Robotics and Automation Letters,JID002,IEEE RAL Vol 2,HandlerID003,09/06/1997
+9,FullArticleID107,ArticleID107,Measurements and modeling of fluid flow and thermal processes in an industrial precalciner,AuthorID007,Gunnarsson A.,VJID002,IEEE Robotics and Automation Letters,JID002,IEEE RAL Vol 3,HandlerID003,09/06/1997
+9,FullArticleID110,ArticleID110,Radiative properties of gases,AuthorID010,Dryer Z.,VJID002,IEEE Robotics and Automation Letters,JID002,IEEE RAL Vol 1,HandlerID003,09/06/1997
+6,FullArticleID111,ArticleID111,Convolutional Neural Network Based on Complex Networks for Brain Tumor Image Classification with a Modified Activation Function,AuthorID011,McDonnell T.,VJID002,IEEE Robotics and Automation Letters,JID002,IEEE RAL Vol 2,HandlerID003,09/06/1997
+9,FullArticleID115,ArticleID115,Array Antenna Gain Enhancement with the Poynting Streamline Method,AuthorID015,Zhang W.,VJID002,IEEE Robotics and Automation Letters,JID002,IEEE RAL Vol 1,HandlerID003,09/06/1997
+10,FullArticleID116,ArticleID116,Relative Navigation: A Keyframe-Based Approach for Observable GPS-Degraded Navigation,AuthorID016,Sargent B.,VJID002,IEEE Robotics and Automation Letters,JID002,IEEE RAL Vol 2,HandlerID003,09/06/1997
+10,FullArticleID118,ArticleID118,Design of a Clinical Decision Support System for Predicting Erectile Dysfunction in Men Using NHIRD Dataset,AuthorID018,Rogers W.,VJID002,IEEE Robotics and Automation Letters,JID002,IEEE RAL Vol 4,HandlerID003,09/06/1997
+11,FullArticleID120,ArticleID120,Error correction in structured optical receivers,AuthorID020,Lee J.H.,VJID002,IEEE Robotics and Automation Letters,JID002,IEEE RAL Vol 1,HandlerID003,09/06/1997
+9,FullArticleID126,ArticleID126,"Direct Relative Edge Optimization, A Robust Alternative for Pose Graph Optimization",AuthorID026,Goode T.,VJID002,IEEE Robotics and Automation Letters,JID002,IEEE RAL Vol 2,HandlerID003,09/06/1997
+3,FullArticleID127,ArticleID127,Johnny's Journey Toward Usable Secure Email,AuthorID027,Godfrey P.C.,VJID002,IEEE Robotics and Automation Letters,JID002,IEEE RAL Vol 3,HandlerID003,09/06/1997
+11,FullArticleID130,ArticleID130,Space-Time Coding for Aeronautical Telemetry: Part i - Estimators,AuthorID030,Dromey C.,VJID002,IEEE Robotics and Automation Letters,JID002,IEEE RAL Vol 1,HandlerID003,09/06/1997
+4,FullArticleID131,ArticleID131,On the effects of channel sparsity on joint estimators in aeronautical telemetry,AuthorID031,Cramer J.,VJID002,IEEE Robotics and Automation Letters,JID002,IEEE RAL Vol 2,HandlerID003,09/06/1997
+3,FullArticleID134,ArticleID134,Comparison and Analysis of Recursive-RANSAC for Multiple Target Tracking,AuthorID034,Unrau M.A.,VJID002,IEEE Robotics and Automation Letters,JID002,IEEE RAL Vol 5,HandlerID003,09/06/1997
+10,FullArticleID137,ArticleID137,Sidelobe Level and Aperture Efficiency Optimization for Tiled Aperiodic Array Antennas,AuthorID037,Kincaid C.J.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 2,HandlerID004,11/11/2000
+11,FullArticleID140,ArticleID140,"Poynting Streamlines, Effective Area Shape, and the Design of Superdirective Antennas",AuthorID040,Zou Z.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 5,HandlerID004,11/11/2000
+11,FullArticleID141,ArticleID141,Nonreciprocal Radio System Calibration for Propagation-Based Key Generation,AuthorID041,Loiseau J.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 1,HandlerID004,11/11/2000
+9,FullArticleID144,ArticleID144,An intuitive way to understand mutual coupling effects in antenna arrays using the poynting streamline method,AuthorID044,Fujimoto M.S.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 4,HandlerID004,11/11/2000
+4,FullArticleID145,ArticleID145,A Comparison of Indoor MIMO Measurements and Ray-Tracing at 24 and 2.55 GHz,AuthorID045,Safdari M.-S.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 5,HandlerID004,11/11/2000
+5,FullArticleID146,ArticleID146,Optimal Distributed Control for Platooning via Sparse Coprime Factorizations,AuthorID046,Rice M.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 1,HandlerID004,11/11/2000
+5,FullArticleID151,ArticleID151,A 9-Bit 10-MHz 28-Î¼W SAR ADC Using Tapered Bit Periods and a Partially Interdigitated DAC,AuthorID001,Ozcelik D.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 1,HandlerID004,11/11/2000
+11,FullArticleID152,ArticleID152,Thermal and Vapor Smoothing of Thermoplastic for Reduced Surface Roughness of Additive Manufactured RF Electronics,AuthorID002,Nysetvold T.B.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 2,HandlerID004,11/11/2000
+5,FullArticleID155,ArticleID155,Relative Heading Estimation and Its Application in Target Handoff in GPS-Denied Environments,AuthorID005,Rice M.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 5,HandlerID004,11/11/2000
+5,FullArticleID156,ArticleID156,Scatterometer Backscatter Imaging Using Backus-Gilbert Inversion,AuthorID006,Rajnarayan D.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 1,HandlerID004,11/11/2000
+8,FullArticleID157,ArticleID157,Improved Ultrahigh-Resolution Wind Retrieval for RapidScat,AuthorID007,Gunnarsson A.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 2,HandlerID004,11/11/2000
+11,FullArticleID160,ArticleID160,Review of research on student-facing learning analytics dashboards and educational recommender systems,AuthorID010,Dryer Z.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 5,HandlerID004,11/11/2000
+5,FullArticleID161,ArticleID161,"Understanding the Impact of Quantization, Accuracy, and Radiation on the Reliability of Convolutional Neural Networks on FPGAs",AuthorID011,McDonnell T.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 1,HandlerID004,11/11/2000
+5,FullArticleID162,ArticleID162,Strategies for Removing Common Mode Failures from TMR Designs Deployed on SRAM FPGAs,AuthorID012,Libano F.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 2,HandlerID004,11/11/2000
+12,FullArticleID163,ArticleID163,Statistical method to extract radiation-induced multiple-cell upsets in SRAM-Based FPGAs,AuthorID013,Liu F.C.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 3,HandlerID004,11/11/2000
+8,FullArticleID167,ArticleID167,Dynamic SEU Sensitivity of Designs on Two 28-nm SRAM-Based FPGA Architectures,AuthorID017,Bahari M.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 2,HandlerID004,11/11/2000
+4,FullArticleID172,ArticleID172,Data-driven dynamic equivalents for power system areas from boundary measurements,AuthorID022,Seng F.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 2,HandlerID004,11/11/2000
+12,FullArticleID176,ArticleID176,Effects of Laryngeal Activity on Articulation,AuthorID026,Goode T.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 1,HandlerID004,11/11/2000
+4,FullArticleID177,ArticleID177,Configuration estimation for accurate position control of large-scale soft robots,AuthorID027,Godfrey P.C.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 2,HandlerID004,11/11/2000
+7,FullArticleID179,ArticleID179,Information geometry for model identification and parameter estimation in renewable energy - DFIG plant case,AuthorID029,Wu R.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 4,HandlerID004,11/11/2000
+5,FullArticleID180,ArticleID180,Flexible hybrid state estimation for power systems with communication irregularities,AuthorID030,Dromey C.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 5,HandlerID004,11/11/2000
+7,FullArticleID181,ArticleID181,Differential effects of air conditioning type on residential endotoxin levels in a semi-arid climate,AuthorID031,Cramer J.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 1,HandlerID004,11/11/2000
+11,FullArticleID183,ArticleID183,New Vapor-Pressure Prediction with Improved Thermodynamic Consistency using the Riedel Equation,AuthorID033,Baker N.F.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 3,HandlerID004,11/11/2000
+10,FullArticleID186,ArticleID186,Spectral and Dynamic Consequences of Network Specialization,AuthorID036,Manning A.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 1,HandlerID004,11/11/2000
+4,FullArticleID187,ArticleID187,Use of Personality Profile Assessments in the U.S. Commercial Construction Industry,AuthorID037,Kincaid C.J.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 2,HandlerID004,11/11/2000
+3,FullArticleID188,ArticleID188,Identification and Prioritization of Critical Subject Matter within Mechanical Systems Curriculum in Construction Management Education,AuthorID038,Smiley A.J.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 3,HandlerID004,11/11/2000
+12,FullArticleID193,ArticleID193,Collaboration task-technology fit for student distributed engineering design teams,AuthorID043,Lyman C.A.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 3,HandlerID004,11/11/2000
+10,FullArticleID199,ArticleID199,Thermal transport due to liquid jet impingement on superhydrophobic surfaces with isotropic slip: Isoflux wall,AuthorID049,Sayre A.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 4,HandlerID004,11/11/2000
+10,FullArticleID202,ArticleID202,Influence of microstructure geometry on pool boiling at superhydrophobic surfaces,AuthorID002,Nysetvold T.B.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 2,HandlerID004,11/11/2000
+3,FullArticleID206,ArticleID206,Heat transfer to bouncing droplets on superhydrophobic surfaces,AuthorID006,Rajnarayan D.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 1,HandlerID004,11/11/2000
+11,FullArticleID214,ArticleID214,Evaluation of stochastic particle dispersion modeling in turbulent round jets,AuthorID014,Laycock R.G.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 4,HandlerID004,11/11/2000
+11,FullArticleID215,ArticleID215,Modeling of trans-grain twin transmission in AZ31 via a neighborhood-based viscoplastic self-consistent model,AuthorID015,Zhang W.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 5,HandlerID004,11/11/2000
+5,FullArticleID219,ArticleID219,Engineering attitudes: an investigation of the effect of literature on student attitudes toward engineering,AuthorID019,Pehrson N.A.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 4,HandlerID004,11/11/2000
+4,FullArticleID220,ArticleID220,Model predictive control and estimation of managed pressure drilling using a real-time high fidelity flow model,AuthorID020,Lee J.H.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 5,HandlerID004,11/11/2000
+6,FullArticleID221,ArticleID221,Adaptive relay autotuning under static and non-static disturbances with application to friction stir welding,AuthorID021,Pehrson N.A.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 1,HandlerID004,11/11/2000
+4,FullArticleID224,ArticleID224,Cryogenic Stress-Driven Grain Growth Observed via Microcompression with in situ Electron Backscatter Diffraction,AuthorID024,Arabian F.,VJID004,JOM,JID004,JOM Vol 4,HandlerID005,07/12/1987
+8,FullArticleID226,ArticleID226,Safe2Ditch: Emergency landing for small unmanned aircraft systems,AuthorID026,Goode T.,VJID004,JOM,JID004,JOM Vol 2,HandlerID005,07/12/1987
+4,FullArticleID228,ArticleID228,Efficient feature descriptor for unmanned aerial vehicle ground moving object tracking,AuthorID028,Farnsworth C.B.,VJID004,JOM,JID004,JOM Vol 4,HandlerID005,07/12/1987
+5,FullArticleID237,ArticleID237,Measuring the transverse Young's modulus of maize rind and pith tissues,AuthorID037,Kincaid C.J.,VJID004,JOM,JID004,JOM Vol 5,HandlerID006,04/23/2015
+8,FullArticleID238,ArticleID238,Dual-wavelength reflectance spectroscopy of the superior vena cava: A method for placing central venous catheters at the cavoatrial junction,AuthorID038,Smiley A.J.,VJID004,JOM,JID004,JOM Vol 2,HandlerID005,07/12/1987
+7,FullArticleID239,ArticleID239,Validated Lateral Seismic Force-Displacement Backbone Curves for High-Speed Rail Bridge Abutments,AuthorID039,Ni Q.,VJID004,JOM,JID004,JOM Vol 3,HandlerID005,07/12/1987
+5,FullArticleID242,ArticleID242,A new approach of reduction of carbon dioxide emission and optimal use of carbon and hydrogen content for the desired syngas production from coal,AuthorID042,Villalon-Reina J.E.,VJID004,JOM,JID004,JOM Vol 2,HandlerID005,07/12/1987
+3,FullArticleID244,ArticleID244,The effects of voids in quasi-static indentation of resin-infused reinforced polymers,AuthorID044,Fujimoto M.S.,VJID004,JOM,JID004,JOM Vol 4,HandlerID005,07/12/1987
+12,FullArticleID246,ArticleID246,Structural design space exploration using principal component analysis,AuthorID046,Rice M.,VJID004,JOM,JID004,JOM Vol 2,HandlerID005,07/12/1987
+10,FullArticleID256,ArticleID256,A Systems Engineering Approach to Harnessing Human Energy in Public Places: A Feasibility Study,AuthorID006,Rajnarayan D.,VJID004,JOM,JID004,JOM Vol 4,HandlerID005,07/12/1987
+7,FullArticleID258,ArticleID258,A Multimodal Exploration of Engineering Students' Emotions and Electrodermal Activity in Design Activities,AuthorID008,Neff C.,VJID004,JOM,JID004,JOM Vol 2,HandlerID005,07/12/1987
+4,FullArticleID265,ArticleID265,Impact of pulse length on the accuracy of defect depth measurements in pulse thermography,AuthorID015,Zhang W.,VJID004,JOM,JID004,JOM Vol 5,HandlerID006,04/23/2015
+9,FullArticleID266,ArticleID266,Control of Net Radiative Heat Transfer with a Variable-Emissivity Accordion Tessellation,AuthorID016,Sargent B.,VJID004,JOM,JID004,JOM Vol 2,HandlerID005,07/12/1987
+8,FullArticleID272,ArticleID272,Optimization of laser sintering for demineralized bone/polycaprolactone composite powder for bone tissue scaffold,AuthorID022,Seng F.,VJID004,JOM,JID004,JOM Vol 4,HandlerID005,07/12/1987
+3,FullArticleID273,ArticleID273,Fabrication of demineralized bone matrix/polycaprolactone composites using large area projection sintering (LAPS),AuthorID023,Jain P.,VJID004,JOM,JID004,JOM Vol 5,HandlerID006,04/23/2015
+10,FullArticleID274,ArticleID274,Investigating steel tool life in the RFSSW process,AuthorID024,Arabian F.,VJID004,JOM,JID004,JOM Vol 2,HandlerID005,07/12/1987
+12,FullArticleID277,ArticleID277,Microstructural evaluation of hydrogen embrittlement and successive recovery in advanced high strength steel,AuthorID027,Godfrey P.C.,VJID004,JOM,JID004,JOM Vol 5,HandlerID006,04/23/2015
+12,FullArticleID280,ArticleID280,Predicting recrystallized grain size in friction stir processed 304L stainless steel,AuthorID030,Dromey C.,VJID004,JOM,JID004,JOM Vol 4,HandlerID005,07/12/1987
+6,FullArticleID284,ArticleID284,Membrane-Enhanced Lamina Emergent Torsional Joints for Surrogate Folds,AuthorID034,Unrau M.A.,VJID004,JOM,JID004,JOM Vol 4,HandlerID005,07/12/1987
+7,FullArticleID287,ArticleID287,A Method for Creating Product Social Impact Models of Engineered Products,AuthorID037,Kincaid C.J.,VJID004,JOM,JID004,JOM Vol 3,HandlerID005,07/12/1987
+7,FullArticleID289,ArticleID289,EFFECT OF GYROSCOPE PARAMETERS ON GYROSCOPIC TREMOR SUPPRESSION IN A SINGLE DEGREE OF FREEDOM,AuthorID039,Ni Q.,VJID004,JOM,JID004,JOM Vol 5,HandlerID006,04/23/2015
+12,FullArticleID290,ArticleID290,Thick rigidly foldable origami mechanisms based on synchronized offset rolling contact elements,AuthorID040,Zou Z.,VJID004,JOM,JID004,JOM Vol 2,HandlerID005,07/12/1987
+3,FullArticleID291,ArticleID291,A pseudo-static model for dynamic analysis on frequency domain of distributed compliant mechanisms,AuthorID041,Loiseau J.,VJID004,JOM,JID004,JOM Vol 3,HandlerID005,07/12/1987
+8,FullArticleID294,ArticleID294,Design and characterization of a package-less hybrid PDMS-CMOS-FR4 contact-imaging system for microfluidic integration,AuthorID044,Fujimoto M.S.,VJID004,JOM,JID004,JOM Vol 2,HandlerID005,07/12/1987
+4,FullArticleID295,ArticleID295,Broadband antireflective light-blocking layer using nanoparticle suspension in photoresist with high-resolution patterning,AuthorID045,Safdari M.-S.,VJID004,JOM,JID004,JOM Vol 3,HandlerID005,07/12/1987
+3,FullArticleID296,ArticleID296,Antireflective light-blocking layers using a liquid top matte coating,AuthorID046,Rice M.,VJID004,JOM,JID004,JOM Vol 4,HandlerID005,07/12/1987
+7,FullArticleID302,ArticleID302,High-Speed Acoustic Impact-Echo Sounding of Concrete Bridge Decks,AuthorID052,Wnorowska U.,VJID004,JOM,JID004,JOM Vol 2,HandlerID005,07/12/1987
+8,FullArticleID310,ArticleID310,Analysis of the external radiation from circular cylindrical shells,AuthorID060,Pastusek P.,VJID004,JOM,JID004,JOM Vol 2,HandlerID005,07/12/1987
+11,FullArticleID311,ArticleID311,High-Strength Concrete Masonry Walls under Concentric and Eccentric Loadings,AuthorID061,Olsen C.R.,VJID004,JOM,JID004,JOM Vol 3,HandlerID005,07/12/1987
+4,FullArticleID312,ArticleID312,Experimental Performance of Block-Out Connections at the Base of Steel Moment Frames,AuthorID062,Rice M.,VJID004,JOM,JID004,JOM Vol 4,HandlerID005,07/12/1987
+9,FullArticleID317,ArticleID317,Re-epithelialization of whole porcine kidneys with renal epithelial cells,AuthorID067,Prince D.,VJID004,JOM,JID004,JOM Vol 5,HandlerID006,04/23/2015
+9,FullArticleID319,ArticleID319,Tutorial on interpreting x-ray photoelectron spectroscopy survey spectra: Questions and answers on spectra from the atomic layer deposition of Al2O3 on silicon,AuthorID069,Fonseca F.S.,VJID004,JOM,JID004,JOM Vol 3,HandlerID005,07/12/1987
+10,FullArticleID320,ArticleID320,Carbon monolith scaffolding for high volumetric capacity silicon Li-ion battery anodes,AuthorID070,SariÄ‡ A.T.,VJID004,JOM,JID004,JOM Vol 4,HandlerID005,07/12/1987
+6,FullArticleID323,ArticleID323,Integration of sample preparation and analysis into an optofluidic chip for multi-target disease detection,AuthorID073,Stone B.,VJID004,JOM,JID004,JOM Vol 3,HandlerID005,07/12/1987
+12,FullArticleID326,ArticleID326,Mining social media divides: an analysis of K-12 U.S. School uses of Twitter,AuthorID076,Peterson C.K.,VJID004,JOM,JID004,JOM Vol 2,HandlerID005,07/12/1987
+3,FullArticleID327,ArticleID327,Water supply damage caused by the 2016 Kumamoto Earthquake,AuthorID077,Allen Q.S.,VJID004,JOM,JID004,JOM Vol 3,HandlerID005,07/12/1987
+6,FullArticleID328,ArticleID328,"Geotechnical extreme-event reconnaissance (GEER) investigation to the 2016 Mw 6.0, Mw 6.2 and Mw 7.0 Kumamoto Japan Earthquakes",AuthorID078,Nelson T.G.,VJID004,JOM,JID004,JOM Vol 4,HandlerID005,07/12/1987
+6,FullArticleID332,ArticleID332,Materials selection of flexible open-cell foams in energy absorption applications,AuthorID082,Smith J.P.,VJID004,JOM,JID004,JOM Vol 4,HandlerID005,07/12/1987
+11,FullArticleID336,ArticleID336,Lower-bound dislocation density mapping in microcoined tantalum using high-resolution electron backscatter diffraction,AuthorID086,Johnson O.K.,VJID004,JOM,JID004,JOM Vol 4,HandlerID005,07/12/1987
+8,FullArticleID338,ArticleID338,"Grain structure evolution, grain boundary sliding and material flow resistance in friction welding of Alloy 718",AuthorID088,Vosughi A.,VJID004,JOM,JID004,JOM Vol 2,HandlerID005,07/12/1987
+5,FullArticleID339,ArticleID339,Effect of strain path on forming limits and retained austenite transformation in Q&P 1180 steel,AuthorID089,Shaikh M.T.,VJID004,JOM,JID004,JOM Vol 3,HandlerID005,07/12/1987
+10,FullArticleID340,ArticleID340,An RVE procedure for micromechanical prediction of mechanical behavior of dual-phase steel,AuthorID090,Dearden J.,VJID004,JOM,JID004,JOM Vol 4,HandlerID005,07/12/1987
+3,FullArticleID344,ArticleID344,Origami fold states: Concept and design tool,AuthorID094,Defigueiredo B.P.,VJID004,JOM,JID004,JOM Vol 4,HandlerID005,07/12/1987
+12,FullArticleID347,ArticleID347,Texture mediated grain boundary network design in three dimensions,AuthorID097,Andre F.,VJID004,JOM,JID004,JOM Vol 3,HandlerID005,07/12/1987
+7,FullArticleID351,ArticleID351,Developable mechanisms on right conical surfaces,AuthorID101,Avila A.,VJID004,JOM,JID004,JOM Vol 3,HandlerID005,07/12/1987
+9,FullArticleID353,ArticleID353,Developable compliant-aided rolling-contact mechanisms,AuthorID103,Merrell A.J.,VJID004,JOM,JID004,JOM Vol 5,HandlerID006,04/23/2015
+3,FullArticleID354,ArticleID354,A CPRBM-based method for large-deflection analysis of contact-aided compliant mechanisms considering beam-to-beam contacts,AuthorID104,Wu J.,VJID004,JOM,JID004,JOM Vol 2,HandlerID005,07/12/1987
+9,FullArticleID355,ArticleID355,Using Cyclic Quadrilaterals to Design Cylindrical Developable Mechanisms,AuthorID105,Aslani P.,VJID004,JOM,JID004,JOM Vol 3,HandlerID005,07/12/1987
+8,FullArticleID358,ArticleID358,Simulated Microstructural and Compositional Evolution of U-Pu-Zr Alloys Using the Potts-Phase Field Modeling Technique,AuthorID108,Wikle J.K.,VJID004,JOM,JID004,JOM Vol 2,HandlerID005,07/12/1987
+3,FullArticleID363,ArticleID363,"3D printed microfluidic features using dose control in X, Y, and Z dimensions",AuthorID113,Oliveira P.M.,VJID004,JOM,JID004,JOM Vol 3,HandlerID005,07/12/1987
+3,FullArticleID370,ArticleID370,Recognition of Chinese food using convolutional neural network,AuthorID120,Mattson C.A.,VJID004,JOM,JID004,JOM Vol 2,HandlerID005,07/12/1987
+4,FullArticleID371,ArticleID371,Biocompatible and sustainable power supply for self-powered wearable and implantable electronics using III-nitride thin-film-based flexible piezoelectric generator,AuthorID121,Lang R.J.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 1,HandlerID004,11/11/2000
+6,FullArticleID373,ArticleID373,High surface-area carbon microcantilevers,AuthorID123,Gong H.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 3,HandlerID004,11/11/2000
+4,FullArticleID377,ArticleID377,The biotech living and the walking dead,AuthorID127,Chelladurai I.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 2,HandlerID004,11/11/2000
+8,FullArticleID380,ArticleID380,Nonlinear resonant ultrasound spectroscopy of stress corrosion cracking in stainless steel rods,AuthorID130,Stanley A.P.J.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 5,HandlerID004,11/11/2000
+3,FullArticleID383,ArticleID383,"Automated sounding for concrete bridge deck inspection through a multi-channel, continuously moving platform",AuthorID133,Allen J.D.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 3,HandlerID004,11/11/2000
+6,FullArticleID387,ArticleID387,Time reversal techniques,AuthorID137,Park J.L.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 2,HandlerID004,11/11/2000
+9,FullArticleID391,ArticleID391,Survivability of integrated fiber Bragg grating sensors in ballistic protection fabrics for high velocity impact testing,AuthorID141,Wang N.,VJID003,International Journal of Technology and Design Education,JID003,IJTDE Vol 1,HandlerID004,11/11/2000
+11,FullArticleID394,ArticleID394,Overview of estimation methods for industrial dynamic systems,AuthorID144,Ling M.,VJID005,OSA Continuum,JID005,OSAC Vol 1,HandlerID007,05/09/1993
+3,FullArticleID396,ArticleID396,Accelerating silicon photonic parameter extraction using artificial neural networks,AuthorID146,Jamal A.-S.,VJID005,OSA Continuum,JID005,OSAC Vol 3,HandlerID007,05/09/1993
+8,FullArticleID403,ArticleID403,Orthogonal liquid-jet impingement on wettability-patterned impermeable substrates,AuthorID153,Anderson B.E.,VJID005,OSA Continuum,JID005,OSAC Vol 5,HandlerID007,05/09/1993
+4,FullArticleID404,ArticleID404,"Oat improvement and innovation using wild genetic resources (poaceae, Avena spp.): Elevating â€œoatsâ€ to a new level and stature",AuthorID154,Humpherys J.,VJID005,OSA Continuum,JID005,OSAC Vol 2,HandlerID007,05/09/1993
+11,FullArticleID405,ArticleID405,Interspecific hybridization for upland cotton improvement,AuthorID155,Johnson C.A.,VJID005,OSA Continuum,JID005,OSAC Vol 3,HandlerID007,05/09/1993
+10,FullArticleID406,ArticleID406,Kinetostatic and dynamic analyses of planar compliant mechanisms via a two-port dynamic stiffness model,AuthorID156,Wall A.T.,VJID005,OSA Continuum,JID005,OSAC Vol 4,HandlerID007,05/09/1993
+6,FullArticleID413,ArticleID413,Product development: Principles and tools for creating desirable and transferable designs,AuthorID163,Lignell D.O.,VJID005,OSA Continuum,JID005,OSAC Vol 6,HandlerID007,05/09/1993
+4,FullArticleID415,ArticleID415,Planning and Analyzing Experiments with Models that Distinguish Between Replicates and Repeats,AuthorID165,Miles M.P.,VJID005,OSA Continuum,JID005,OSAC Vol 1,HandlerID007,05/09/1993
+5,FullArticleID418,ArticleID418,Phase II monitoring of variability using Cusum and EWMA charts with individual observations,AuthorID168,Davidson A.D.,VJID005,OSA Continuum,JID005,OSAC Vol 4,HandlerID007,05/09/1993
+3,FullArticleID427,ArticleID427,"A Geometrically Exact Isogeometric Blended Shell: Formulation, Benchmarking, and Automotive Application",AuthorID177,Swift S.H.,VJID005,OSA Continuum,JID005,OSAC Vol 4,HandlerID007,05/09/1993
+11,FullArticleID429,ArticleID429,Insights into grain boundary energy structure-property relationships by examining computed [1â€‰0â€‰0] disorientation axis grain boundaries in Nickel,AuthorID179,Wallace J.W.,VJID005,OSA Continuum,JID005,OSAC Vol 6,HandlerID007,05/09/1993
+7,FullArticleID435,ArticleID435,3D hydrodynamic flow focusing-based micromixer enables high-resolution imaging for studying the early folding kinetics of G-quadruplex,AuthorID185,Roy J.,VJID005,OSA Continuum,JID005,OSAC Vol 3,HandlerID007,05/09/1993
+11,FullArticleID436,ArticleID436,Quality assessment of images with multiple distortions based on phase congruency and gradient magnitude,AuthorID186,Bodily D.M.,VJID005,OSA Continuum,JID005,OSAC Vol 1,HandlerID007,05/09/1993
+4,FullArticleID439,ArticleID439,Site effects in Mexico City basin: Past and present,AuthorID189,Bodily D.M.,VJID005,OSA Continuum,JID005,OSAC Vol 4,HandlerID007,05/09/1993
+10,FullArticleID443,ArticleID443,Human factors in mission control centers,AuthorID193,Transtrum M.K.,VJID005,OSA Continuum,JID005,OSAC Vol 3,HandlerID007,05/09/1993
+8,FullArticleID447,ArticleID447,"The effect of two distinct fast time scales in the rotating, stratified Boussinesq equations: variations from quasi-geostrophy",AuthorID050,Swindlehurst E.,VJID005,OSA Continuum,JID005,OSAC Vol 3,HandlerID007,05/09/1993
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
