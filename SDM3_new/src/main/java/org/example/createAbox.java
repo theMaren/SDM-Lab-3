@@ -42,6 +42,33 @@ public class createAbox {
 
     }
 
+    //add the concept of a paper article (by the NumPages property)
+    public static void paper_article(List<String[]> rows,HashMap<String, String> classes,
+                                       HashMap<String, String> properties, OntModel tbox ){
+
+        String paper_uri = "";
+        for (String[] row : rows) {
+            //check if paper is a specific article subclass
+            if (row[0].toLowerCase().contains("short")) {
+                paper_uri = classes.get("ShortPaper");
+            } else if (row[0].toLowerCase().contains("demo")) {
+                paper_uri = classes.get("DemoPaper");
+            } else if (row[0].toLowerCase().contains("full")) {
+                paper_uri = classes.get("FullPaper");
+            } else if (row[0].toLowerCase().contains("poster")) {
+                paper_uri = classes.get("Poster");
+            } else {
+                paper_uri = classes.get("Article");
+            }
+
+            //add the NumPages property to the according article
+            Individual paper = abox.createIndividual(paper_uri + "/" + row[0], tbox.getOntClass(paper_uri));
+            paper.addProperty(abox.createProperty(properties.get("NumPages")), row[3]);
+
+        }
+
+    }
+
     //put journals and all the articles related to them to the abox
     public static void journal_to_abox(List<String[]> rows,HashMap<String, String> classes,
                               HashMap<String, String> properties, OntModel tbox ,
@@ -271,7 +298,9 @@ public class createAbox {
         String regconfPath = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\regularconferences.csv";
         String expergroupPath = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\expertsgroups.csv";
         String areaPath = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\areas.csv";
-        String tboxPath = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\TBOXv6.owl";
+        String paperArticlePath = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\data\\paper_articles.csv";
+
+        String tboxPath = "D:\\OneDrive - Université Libre de Bruxelles\\UPC\\Semantic Database Mangement\\Lab3\\TBOXv7.ttl";
 
         // Read the TBox file
         tbox.read(tboxPath);
@@ -320,6 +349,10 @@ public class createAbox {
         //regular conferences
         csv_rows = read_csv(regconfPath,',');
         conferences_to_abox(csv_rows,classes,properties,tbox,"regular");
+
+        //paper article
+        csv_rows = read_csv(paperArticlePath,',');
+        paper_article(csv_rows,classes,properties,tbox);
 
         //save abox to file
         try{
