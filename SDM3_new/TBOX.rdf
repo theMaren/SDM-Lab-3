@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns="http://www.gra.fo/schema/untitled-ekg#"
+	xmlns:agg="http://jena.apache.org/ARQ/function/aggregate#"
+	xmlns:sail="http://www.openrdf.org/config/sail#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:geof="http://www.opengis.net/def/function/geosparql/"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:fn="http://www.w3.org/2005/xpath-functions"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:spif="http://spinrdf.org/spif#"
+	xmlns:path="http://www.ontotext.com/path#"
+	xmlns:array="http://www.w3.org/2005/xpath-functions/array"
+	xmlns:apf="http://jena.apache.org/ARQ/property#"
+	xmlns:xml="http://www.w3.org/XML/1998/namespace"
+	xmlns:rep="http://www.openrdf.org/config/repository#"
+	xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+	xmlns:foaf="http://xmlns.com/foaf/spec/"
+	xmlns:sr="http://www.openrdf.org/config/repository/sail#"
+	xmlns:gf="http://www.gra.fo/schema/untitled-ekg#"
+	xmlns:wgs="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:gn="http://www.geonames.org/ontology#"
+	xmlns:afn="http://jena.apache.org/ARQ/function#"
+	xmlns:list="http://jena.apache.org/ARQ/list#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:ofn="http://www.ontotext.com/sparql/functions/"
+	xmlns:geoext="http://rdf.useekm.com/ext#"
+	xmlns:graphdb="http://www.ontotext.com/config/graphdb#"
+	xmlns:math="http://www.w3.org/2005/xpath-functions/math"
+	xmlns:omgeo="http://www.ontotext.com/owlim/geo#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#appliesto">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Article">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Venue">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Area">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Conference">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Review">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#handledby">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Handler">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Reviewer">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Demopaper">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Expertgroup">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Symposium">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Journal">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Fullpaper">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Workshop">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Regularconference">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#madefor">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Poster">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Author">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#relatedto">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#requestedby">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#reviews">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Shortpaper">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#writesreview">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#proceedings">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#startdate">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#venuename">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#numberofdays">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#size">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#areaname">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#volume">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#title">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#writtenby">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#name">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#shortabstract">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#hindex">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#decision">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#explanation">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#subject">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#numofchapters">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#linkid">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#address">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#numexperts">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#numpages">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Paperarticles">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Conference">
+	<rdfs:subClassOf rdf:resource="http://www.gra.fo/schema/untitled-ekg#Venue"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Demopaper">
+	<rdfs:subClassOf rdf:resource="http://www.gra.fo/schema/untitled-ekg#Paperarticles"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Expertgroup">
+	<rdfs:subClassOf rdf:resource="http://www.gra.fo/schema/untitled-ekg#Conference"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Symposium">
+	<rdfs:subClassOf rdf:resource="http://www.gra.fo/schema/untitled-ekg#Conference"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Journal">
+	<rdfs:subClassOf rdf:resource="http://www.gra.fo/schema/untitled-ekg#Venue"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Fullpaper">
+	<rdfs:subClassOf rdf:resource="http://www.gra.fo/schema/untitled-ekg#Paperarticles"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Workshop">
+	<rdfs:subClassOf rdf:resource="http://www.gra.fo/schema/untitled-ekg#Conference"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Regularconference">
+	<rdfs:subClassOf rdf:resource="http://www.gra.fo/schema/untitled-ekg#Conference"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Poster">
+	<rdfs:subClassOf rdf:resource="http://www.gra.fo/schema/untitled-ekg#Article"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Shortpaper">
+	<rdfs:subClassOf rdf:resource="http://www.gra.fo/schema/untitled-ekg#Paperarticles"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Paperarticles">
+	<rdfs:subClassOf rdf:resource="http://www.gra.fo/schema/untitled-ekg#Article"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#appliesto">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Paperarticles"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#handledby">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Venue"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#madefor">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Poster"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#relatedto">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Article"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#requestedby">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Review"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#reviews">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Review"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#writesreview">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Reviewer"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#proceedings">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Conference"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#startdate">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Handler"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#venuename">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Venue"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#numberofdays">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Workshop"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#size">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Poster"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#areaname">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Area"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#volume">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Journal"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#title">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Article"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#writtenby">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Article"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#name">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Author"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#shortabstract">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Shortpaper"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#hindex">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Reviewer"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#decision">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Review"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#explanation">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Review"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#subject">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Symposium"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#numofchapters">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Fullpaper"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#linkid">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Demopaper"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#address">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Regularconference"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#numexperts">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Expertgroup"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#numpages">
+	<rdfs:domain rdf:resource="http://www.gra.fo/schema/untitled-ekg#Paperarticles"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#appliesto">
+	<rdfs:range rdf:resource="http://www.gra.fo/schema/untitled-ekg#Venue"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#handledby">
+	<rdfs:range rdf:resource="http://www.gra.fo/schema/untitled-ekg#Handler"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#madefor">
+	<rdfs:range rdf:resource="http://www.gra.fo/schema/untitled-ekg#Conference"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#relatedto">
+	<rdfs:range rdf:resource="http://www.gra.fo/schema/untitled-ekg#Area"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#requestedby">
+	<rdfs:range rdf:resource="http://www.gra.fo/schema/untitled-ekg#Handler"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#reviews">
+	<rdfs:range rdf:resource="http://www.gra.fo/schema/untitled-ekg#Article"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#writesreview">
+	<rdfs:range rdf:resource="http://www.gra.fo/schema/untitled-ekg#Review"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#writtenby">
+	<rdfs:range rdf:resource="http://www.gra.fo/schema/untitled-ekg#Author"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg">
+	<rdfs:comment></rdfs:comment>
+	<rdfs:label>Lab 3 SDM v3</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#appliesto">
+	<rdfs:label>appliesTo</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Article">
+	<rdfs:label>Article</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Venue">
+	<rdfs:label>Venue</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Area">
+	<rdfs:label>Area</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Conference">
+	<rdfs:label>Conference</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Review">
+	<rdfs:label>Review</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#handledby">
+	<rdfs:label>handledBy</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Handler">
+	<rdfs:label>Handler</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Reviewer">
+	<rdfs:label>Reviewer</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Demopaper">
+	<rdfs:label>DemoPaper</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Expertgroup">
+	<rdfs:label>ExpertGroup</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Symposium">
+	<rdfs:label>Symposium</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Journal">
+	<rdfs:label>Journal</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Fullpaper">
+	<rdfs:label>FullPaper</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Workshop">
+	<rdfs:label>Workshop</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Regularconference">
+	<rdfs:label>RegularConference</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#madefor">
+	<rdfs:label>madeFor</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Poster">
+	<rdfs:label>Poster</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Author">
+	<rdfs:label>Author</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#relatedto">
+	<rdfs:label>relatedTo</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#requestedby">
+	<rdfs:label>requestedBy</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#reviews">
+	<rdfs:label>reviews</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Shortpaper">
+	<rdfs:label>ShortPaper</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#writesreview">
+	<rdfs:label>writesReview</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#proceedings">
+	<rdfs:label>Proceedings</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#startdate">
+	<rdfs:label>StartDate</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#venuename">
+	<rdfs:label>VenueName</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#numberofdays">
+	<rdfs:label>NumberOfDays</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#size">
+	<rdfs:label>Size</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#areaname">
+	<rdfs:label>AreaName</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#volume">
+	<rdfs:label>Volume</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#title">
+	<rdfs:label>Title</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#writtenby">
+	<rdfs:label>writtenBy</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#name">
+	<rdfs:label>Name</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#shortabstract">
+	<rdfs:label>ShortAbstract</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#hindex">
+	<rdfs:label>HIndex</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#decision">
+	<rdfs:label>Decision</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#explanation">
+	<rdfs:label>Explanation</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#subject">
+	<rdfs:label>Subject</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#numofchapters">
+	<rdfs:label>NumOfChapters</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#linkid">
+	<rdfs:label>LinkID</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#address">
+	<rdfs:label>Address</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#numexperts">
+	<rdfs:label>NumExperts</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#numpages">
+	<rdfs:label>NumPages</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Paperarticles">
+	<rdfs:label>PaperArticles</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#appliesto">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Article">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Venue">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Area">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Conference">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Review">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#handledby">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Handler">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Reviewer">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Demopaper">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Expertgroup">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Symposium">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Journal">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Fullpaper">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Workshop">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Regularconference">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#madefor">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Poster">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Author">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#relatedto">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#requestedby">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#reviews">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Shortpaper">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#writesreview">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#proceedings">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#startdate">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#venuename">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#numberofdays">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#size">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#areaname">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#volume">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#title">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#writtenby">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#name">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#shortabstract">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#hindex">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#decision">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#explanation">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#subject">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#numofchapters">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#linkid">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#address">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#numexperts">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#numpages">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.gra.fo/schema/untitled-ekg#Paperarticles">
+	<rdfs:isDefinedBy rdf:resource="http://www.gra.fo/schema/untitled-ekg"/>
+</rdf:Description>
+
+</rdf:RDF>
