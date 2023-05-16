@@ -1,0 +1,44 @@
+#Count classes
+PREFIX gf: <http://www.gra.fo/schema/untitled-ekg#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT (COUNT(?class) AS ?numClasses)
+WHERE {
+  ?class a rdfs:Class .
+  ?class rdfs:label ?className .
+}
+
+#Count properties
+PREFIX gf: <http://www.gra.fo/schema/untitled-ekg#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?property (COUNT(*) AS ?numTriples)
+WHERE {
+  ?subject ?property ?object .
+  FILTER(?property = gf:writtenby || ?property = gf:appliesto ||?property = gf:reviews)
+}
+GROUP BY ?property
+
+#Count overall number of instaces in classes
+PREFIX gf: <http://www.gra.fo/schema/untitled-ekg#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?class (COUNT(?instance) as ?count)
+WHERE {
+  ?instance rdf:type ?class .
+}
+GROUP BY ?class
+ORDER BY DESC(?count)
+
+
+#number of triples using the different properties
+PREFIX gf: <http://www.gra.fo/schema/untitled-ekg#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?property ?label (COUNT(*) as ?count)
+WHERE {
+  ?subject ?property ?object .
+  ?property rdfs:label ?label .
+}
+GROUP BY ?property ?label
+ORDER BY DESC(?count)
