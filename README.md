@@ -2,8 +2,9 @@
 
 ## Table of Contents
 1. [General Info](#general-info)
-2. [Set up and requirements](#technologies)
-3. [Python scripts](#installation)
+2. [Set up and requirements](#Set up and requirements)
+3. [Data](#data)
+4. [Create ABOX](#abox)
 
 ### General Info
 ***
