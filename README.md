@@ -12,7 +12,7 @@ This git repository is part of the lab assignment 3 (knowledge graphs) implement
 
 ## Set up and requirements
 ***
-We used Java Version 1.8.0_351
+We used Java Version 1.8.0_351 <br />
 For the ABOX creation the Apache Jena API is used the java project was set up as an Maeven Project so that all dependecies specified in the pom.xml file were build automatically.
 
 ## Data
